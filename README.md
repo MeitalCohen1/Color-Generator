@@ -5,7 +5,7 @@ Color generator app built with React.
 Built as part of a React course.
 <br/>
 
-[Visit project site](https://obrm-color-generator.netlify.app)
+[Visit project site](https://meital-color-generator.netlify.app/)
 
 ## Values JS & React Color
 
